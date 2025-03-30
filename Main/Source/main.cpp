@@ -2,8 +2,7 @@
 
 using namespace std;
 
-void main()
+int main(void)
 {
-
-
+    return 0;
 }
